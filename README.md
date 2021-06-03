@@ -21,3 +21,6 @@ Documentação com swagger: link: http://localhost:9999/desafio-catalogo-produto
 <br>
 Postman: link: https://app.getpostman.com/run-collection/e1f29eb2b7906c875018?action=collection%2Fimport
 <br>
+<br>
+Att.<br>
+Bruno Carvalho
