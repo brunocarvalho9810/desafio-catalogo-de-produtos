@@ -1,0 +1,10 @@
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('5G cinza 128gb', 'Samsung S21', '1599.99');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('4G branco 64gb', 'Samsung S20', '1299.90');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Digital Edition branco 825GB', 'PlayStation 5', '8999.00');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('1TB', 'PlayStation 4', '2599.00');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('500GB', 'PlayStation 4', '1999.90');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Wifi Wireless 3a', 'Câmera Ip 3', '139.90');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Miniature 5D', 'Câmera Canon', '199.00');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Couro 5ATM', 'Relógio Masculino', '189.90');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Silicone preto', 'Relógio Feminino', '169.90');
+INSERT INTO `catalogo`.`produto` (`description`, `name`, `price`) VALUES ('Inspiron 15 8GB 500GB', 'Notebook Dell', '4299.99');

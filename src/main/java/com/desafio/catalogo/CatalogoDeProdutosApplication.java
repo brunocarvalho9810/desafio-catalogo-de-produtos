@@ -1,4 +1,4 @@
-package com.desafio.catalogodeprodutos;
+package com.desafio.catalogo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
